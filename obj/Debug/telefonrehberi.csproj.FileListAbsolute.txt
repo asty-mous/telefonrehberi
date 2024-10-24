@@ -1,0 +1,13 @@
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\bin\Debug\telefonrehberidb.mdf
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\bin\Debug\telefonrehberidb_log.ldf
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\bin\Debug\proje2334.exe.config
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\bin\Debug\proje2334.exe
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\bin\Debug\proje2334.pdb
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.csprojAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\proje2334.Form1.resources
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\proje2334.Form2.resources
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\proje2334.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\telefonrehberi.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\proje2334.exe
+C:\Users\Ogrenci\Desktop\v1.1\telefonrehberi\telefonrehberi\obj\Debug\proje2334.pdb
